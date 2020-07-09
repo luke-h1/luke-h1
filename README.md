@@ -2,7 +2,7 @@
 
 I'm passionate about solving technical problems and coming up with creative solutions. 
 
-# I am currently looking for a technical support / dev ops position at an exciting company   
+ I am currently looking for a technical support / dev ops position at an exciting company   
 
 
 - 🔭 I’m currently working on ... My personal portfolio 
