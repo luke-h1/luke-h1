@@ -6,7 +6,9 @@
 
 <p align="center"> 
 I'm passionate about solving technical problems and coming up with creative solutions. 
-
+</p> 
+ 
+<p align="center"> 
 I am currently looking for a technical support / dev ops position at an exciting company   
 </p> 
 
