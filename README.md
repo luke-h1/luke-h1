@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-Here are some ideas to get you started:
+### Hi there my name is Luke 👋
 
 - 🔭 I’m currently working on ... My personal portfolio 
 - 🌱 I’m currently learning ...Vanilla javascript 
