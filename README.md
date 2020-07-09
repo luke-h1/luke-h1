@@ -1,8 +1,12 @@
-### Hi there my name is Luke 👋
+<h2 align="center">Hi there my name is Luke 👋</h2>   
+<p align="center"> 
+ <a href="https://www.linkedin.com/in/lukehowsam/">Linkedin</a> 
+ <a href="https://github.com/luke-h1/">Github</a> 
+</p> 
 
 I'm passionate about solving technical problems and coming up with creative solutions. 
 
- I am currently looking for a technical support / dev ops position at an exciting company   
+I am currently looking for a technical support / dev ops position at an exciting company   
 
 
 - 🔭 I’m currently working on ... My personal portfolio 
