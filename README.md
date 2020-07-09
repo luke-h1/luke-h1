@@ -4,10 +4,11 @@
  <a href="https://github.com/luke-h1/">Github</a> 
 </p> 
 
+<p align="center"> 
 I'm passionate about solving technical problems and coming up with creative solutions. 
 
 I am currently looking for a technical support / dev ops position at an exciting company   
-
+</p> 
 
 - 🔭 I’m currently working on ... My personal portfolio 
 - 🌱 I’m currently learning ...Vanilla javascript 
