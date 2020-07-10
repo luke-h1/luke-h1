@@ -15,5 +15,5 @@ I am currently looking for a technical support / dev ops position at an exciting
 - 🔭 I’m currently working on ... My personal portfolio 
 - 🌱 I’m currently learning ...HTML, CSS & Vanilla Javascript 
 - 👯 I’m looking to collaborate on ... Beginner FOSS projects 
-- 💬 Ask me about ... Linux systems, OS-X, Ansible & HTML/CSS 
+- 💬 Ask me about ... Linux systems, OS-X, Ansible 
 - 📫 How to reach me: ... DM me here: https://www.linkedin.com/in/lukehowsam/ 
