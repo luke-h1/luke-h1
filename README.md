@@ -12,7 +12,7 @@ I'm passionate about solving technical problems and coming up with creative solu
 I am currently looking for a technical support / dev ops position at an exciting company   
 
 
-- 🔭 I’m currently working on ... [covid-19 tracker](https://github.com/luke-h1/covid-19-tracker)
+- 🔭 I’m currently working on ... []()
 - 🌱 I’m currently learning ...HTML, CSS & Vanilla Javascript 
 - 👯 I’m looking to collaborate on ... Beginner Frontend projects 
 - 💬 Ask me about ... Automation, HTML + CSS 
