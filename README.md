@@ -17,5 +17,3 @@ I am currently looking for a technical support / dev ops position at an exciting
 - 👯 I’m looking to collaborate on ... Beginner Frontend projects 
 - 💬 Ask me about ... Automation, HTML + CSS 
 - 📫 How to reach me: ... DM me here: https://www.linkedin.com/in/lukehowsam/ 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luke-h1)](https://github.com/luke-h1/github-readme-stats)
