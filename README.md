@@ -3,7 +3,6 @@
  <a href="https://www.linkedin.com/in/lukehowsam/">Linkedin</a> 
  <a href="https://github.com/luke-h1/">Github</a> 
 </p> 
-<a href="#"><img src="https://badges.pufler.dev/visits/luke-h1/luke-h1"></a>
 
 I'm passionate about solving technical problems and coming up with creative solutions. 
 
