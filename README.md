@@ -19,4 +19,4 @@ I am currently looking for a technical support / dev ops position at an exciting
 
 
 <hr>
-  <img align="right" alt="GIF" src="https://giphy.com/gifs/loop-hot-fire-l0HlTy9x8FZo0XO1i" />
+  <img align="center" alt="GIF" src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" />
