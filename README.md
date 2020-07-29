@@ -18,5 +18,5 @@ I am currently looking for a technical support / dev ops position at an exciting
 - 📫 How to reach me: ... DM me here: https://www.linkedin.com/in/lukehowsam/ 
 
 
-<hr>
-  <img align="center" alt="GIF" src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" />
+<!---<hr> --> 
+  <!--- <img align="center" alt="GIF" src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" /> --> 
