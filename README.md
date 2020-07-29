@@ -19,5 +19,4 @@ I am currently looking for a technical support / dev ops position at an exciting
 
 
 <hr>
-
-<iframe src="https://giphy.com/embed/l0HlTy9x8FZo0XO1i" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-hot-fire-l0HlTy9x8FZo0XO1i">via GIPHY</a></p>
+  <img align="right" alt="GIF" src="https://giphy.com/gifs/loop-hot-fire-l0HlTy9x8FZo0XO1i" />
