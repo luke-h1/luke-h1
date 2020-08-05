@@ -11,7 +11,7 @@ I'm passionate about solving technical problems and coming up with creative solu
 I am currently looking for a technical support / service desk position at an exciting company   
 
 
-- 🔭 I’m currently working on ... [discord bot ](discord bot)
+- 🔭 I’m currently working on ... https://github.com/luke-h1/discord-bot
 - 🌱 I’m currently learning ...HTML, CSS & Vanilla Javascript 
 - 👯 I’m looking to collaborate on ... Beginner Frontend projects 
 - 💬 Ask me about ... Automation, HTML + CSS, Linux  
