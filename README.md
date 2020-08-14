@@ -4,12 +4,9 @@
  <a href="https://github.com/luke-h1/">Github</a> 
 </p> 
 
-I'm passionate about solving technical problems and coming up with creative solutions. 
-
- 
-
-I am currently looking for a technical support / service desk position at an exciting company   
-
+ I'm passionate about solving technical problems and coming up with creative solutions. 
+ I am currently looking for a technical support / service desk position at an exciting company   
+<hr>
 - 🚀 I’m currently working on ... https://github.com/luke-h1/weather-app  
 - 🌱 I’m currently learning ...HTML, CSS & Vanilla Javascript 
 - 👯 I’m looking to collaborate on ... Beginner Frontend projects 
