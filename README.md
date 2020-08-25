@@ -5,7 +5,7 @@
 </p> 
 
  I'm passionate about solving technical problems and coming up with creative solutions. 
- I am currently looking for a technical support / service desk position at an exciting company   
+ I am currently looking for a new role at an exciting company   
  
  
 <!---- 🚀 I’m currently working on ... https://github.com/luke-h1/weather-app  --> 
