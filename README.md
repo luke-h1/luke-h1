@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning ...HTML, CSS & Vanilla Javascript 
 - 👯 I’m looking to collaborate on ...  Frontend projects 
 - 💬 Ask me about ... Automation, HTML + CSS, Linux, 
-<!-- - 📫 How to reach me: ... DM me here: --> 
+- 📫 How to reach me: ... DM me here: https://www.linkedin.com/in/lukehowsam/ 
  
 
-  <!--- <img align="center" alt="GIF" src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" /> --> 
