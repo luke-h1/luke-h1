@@ -10,7 +10,7 @@
  
 <!---- 🚀 I’m currently working on ...   --> 
 - 🌱 I’m currently learning ...HTML, CSS & Vanilla Javascript 
-- 👯 I’m looking to collaborate on ...  Frontend projects 
+- 👯 I’m looking to collaborate on ...  Open source frontend projects  
 - 💬 Ask me about ... Automation, HTML + CSS, Linux, 
 - 📫 How to reach me: ... DM <a href="https://twitter.com/LukeH_1999">@LukeH_1999</a> 
 
