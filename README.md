@@ -4,13 +4,21 @@
  <a href="https://github.com/luke-h1/">Github</a> 
 </p> 
 
- I'm passionate about solving technical problems and coming up with creative solutions. 
- I am currently looking for a new role at an exciting company   
+I'm passionate about solving technical problems and coming up with creative solutions. 
+
  
- 
-<!---- 🚀 I’m currently working on ...   --> 
+
+I am currently looking for a technical support / dev ops position at an exciting company   
+
+
+<!--- - 🔭 I’m currently working on ... []() --> 
 - 🌱 I’m currently learning ...HTML, CSS & Vanilla Javascript 
-- 👯 I’m looking to collaborate on ...  Open source frontend projects  
-- 💬 Ask me about ... Automation, HTML + CSS, Linux, 
-<!--- - 📫 How to reach me: ... --->
+- 👯 I’m looking to collaborate on ... Beginner Frontend projects 
+- 💬 Ask me about ... Automation, HTML + CSS, Linux  \
+- 📫 How to reach me: ... DM me here: <a href="https://www.linkedin.com/in/lukehowsam/"><img src="linkedin.svg" width="50" height="50">
+</a> or here: 
+- 📫 How to reach me: ... <a href="https://twitter.com/LukeH_1999"><img src="twitter.svg" width="50" height="50"></a>
+
+
+
 
