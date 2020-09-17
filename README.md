@@ -14,7 +14,7 @@ I am currently looking for a technical support / dev ops position at an exciting
 <!--- - 🔭 I’m currently working on ... []() --> 
 - 🌱 I’m currently learning ...HTML, CSS & Vanilla Javascript 
 - 👯 I’m looking to collaborate on ... Beginner Frontend projects 
-- 💬 Ask me about ... Automation, HTML + CSS, Linux  \
+- 💬 Ask me about ... Automation, HTML + CSS, Linux 
 - 📫 How to reach me: ... <a href="https://www.linkedin.com/in/lukehowsam/">Linkedin
 </a>, <a href="https://twitter.com/LukeH_1999">Twitter</a>
 
