@@ -16,9 +16,7 @@ I am currently looking for a technical support / dev ops position at an exciting
 - 👯 I’m looking to collaborate on ... Beginner Frontend projects 
 - 💬 Ask me about ... Automation, HTML + CSS, Linux  \
 - 📫 How to reach me: ... DM me here: <a href="https://www.linkedin.com/in/lukehowsam/">![linkedin](/linkedin.svg)
-</a> or here: 
-- 📫 How to reach me: ... <a href="https://twitter.com/LukeH_1999">![twitter](/twitter.svg)
-</a>
+</a> or here: <a href="https://twitter.com/LukeH_1999">Linkedin</a>
 
 
 
