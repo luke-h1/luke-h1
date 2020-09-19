@@ -11,7 +11,7 @@ I'm passionate about solving technical problems and coming up with creative solu
 
 
 <!--- - 🔭 I’m currently working on ... []() --> 
-- 🌱 I’m currently learning ...HTML, CSS & Vanilla Javascript 
+- 🌱 I’m currently learning ...Vanilla Javascript 
 - 👯 I’m looking to collaborate on ... Beginner Frontend projects 
 - 💬 Ask me about ... Automation, HTML + CSS, Linux 
 - 📫 How to reach me: ... <a href="https://www.linkedin.com/in/lukehowsam/">Linkedin</a>
