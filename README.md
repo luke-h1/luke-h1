@@ -28,3 +28,7 @@ I'm passionate about solving technical problems and coming up with creative solu
  <a href="https://www.linkedin.com/in/lukehowsam/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
+
+[![Luke's github stats](https://github-readme-stats.vercel.app/api?username=luke-h1&show_icons=true&theme=merko)](https://github.com/luke-h1)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luke-h1&layout=compact&theme=merko)](https://github.com/luke-h1/github-readme-stats)
+
