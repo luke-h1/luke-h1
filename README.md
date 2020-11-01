@@ -29,6 +29,4 @@ I'm passionate about solving technical problems and coming up with creative solu
 </p>
 
 
-[![Luke's github stats](https://github-readme-stats.vercel.app/api?username=luke-h1&show_icons=true&theme=merko)](https://github.com/luke-h1)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luke-h1&layout=compact&theme=merko)](https://github.com/luke-h1/github-readme-stats)
 
