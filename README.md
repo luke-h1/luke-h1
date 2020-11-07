@@ -4,7 +4,7 @@
 <p align="center"> 
  <a margin='5px' href="https://www.linkedin.com/in/lukehowsam/">Linkedin</a> 
  <a margin='5px' href="https://github.com/luke-h1/">Github</a> 
- <a margin='5px' href="https://luke-h-portfolio.vercel.app/">Website</a> 
+ <a margin='5px' href="https://lhowsam.com">Website</a> 
 </p> 
 
 I'm passionate about solving technical problems and coming up with creative solutions. 
