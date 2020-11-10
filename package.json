@@ -1,0 +1,19 @@
+{
+  "name": "luke-h1",
+  "version": "1.0.0",
+  "description": "<h2 align=\"center\">Hi there my name is Luke <img src=\"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif\" width=\"25px\" /> </h2>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luke-h1/luke-h1.git"
+  },
+  "author": "luke-h1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luke-h1/luke-h1/issues"
+  },
+  "homepage": "https://github.com/luke-h1/luke-h1#readme"
+}
