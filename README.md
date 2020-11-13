@@ -19,7 +19,6 @@ I'm passionate about solving technical problems and coming up with creative solu
 - 💬 Ask me about ... Automation, HTML + CSS, Linux 
 
 
-<img src="./github-image.png">
 
 
 <h3>Where to find me</h3>
