@@ -1,13 +1,13 @@
 name: Waka Readme
 # Trigger workflow on push or PR events for the master branch
-# Every 2 hours otherwise
+# Every 12 hours otherwise
 on:
   push:
     branches:
       - master 
   workflow_dispatch:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '0 */12 * * *'
 
 jobs:
   update-readme:

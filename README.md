@@ -15,5 +15,10 @@ I'm passionate about solving technical problems and coming up with creative solu
 - 👯 I’m looking to collaborate on ... Open Source frontend projects 
 - 💬 Ask me about ... Automation, HTML + CSS, Linux 
 
+![Waka Readme](https://github.com/luke-h1/luke-h1/workflows/Waka%20Readme/badge.svg)
+
+
+# Daily development breakdown: 
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
