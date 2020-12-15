@@ -1,6 +1,4 @@
 name: Waka Readme
-# Trigger workflow on push or PR events for the master branch
-# Every 24 hours otherwise
 on:
   workflow_dispatch:
   schedule:
