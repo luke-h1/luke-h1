@@ -21,4 +21,7 @@ I'm passionate about solving technical problems and coming up with creative solu
 # Daily development breakdown: 
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
