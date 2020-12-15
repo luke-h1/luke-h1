@@ -1,14 +1,17 @@
 name: Waka Readme
-
+# Trigger workflow on push or PR events for the master branch
+# Every 2 hours otherwise
 on:
+    push:
+      branches:
+        - master 
   workflow_dispatch:
   schedule:
-    # Runs every 2 hours
     - cron: '0 */2 * * *'
 
 jobs:
   update-readme:
-    name: Update this repo's readme every 2 hours
+    name: Update this repo's readme 
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
