@@ -2,9 +2,9 @@ name: Waka Readme
 # Trigger workflow on push or PR events for the master branch
 # Every 2 hours otherwise
 on:
-    push:
-      branches:
-        - master 
+  push:
+    branches:
+      - master 
   workflow_dispatch:
   schedule:
     - cron: '0 */2 * * *'
