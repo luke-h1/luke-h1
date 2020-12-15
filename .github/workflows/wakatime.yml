@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   schedule:
     # Runs every 2 hours
-    - cron: '* * * * * '
+    - cron: '0 */2 * * *'
 
 jobs:
   update-readme:
@@ -16,4 +16,3 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "True"
           SHOW_PROJECTS: "False"
-
