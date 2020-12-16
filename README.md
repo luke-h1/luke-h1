@@ -18,6 +18,7 @@ I'm passionate about solving technical problems and coming up with creative solu
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML       20 mins         █████████████████▓░░░░░░░   71.03 % 
+Markdown   8 mins          ███████▒░░░░░░░░░░░░░░░░░   28.97 % 
 ```
 <!--END_SECTION:waka-->
