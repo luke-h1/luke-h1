@@ -17,5 +17,7 @@ I'm passionate about solving technical problems and coming up with creative solu
 
 
 <!--START_SECTION:waka-->
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
