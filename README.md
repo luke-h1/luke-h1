@@ -17,5 +17,11 @@ I'm passionate about solving technical problems and coming up with creative solu
 
 
 <!--START_SECTION:waka-->
-
+```text
+Python     1 hr 2 mins     █████████████▒░░░░░░░░░░░   53.31 % 
+YAML       20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.25 % 
+JSX        13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Bash       12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Markdown   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+```
 <!--END_SECTION:waka-->
