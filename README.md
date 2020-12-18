@@ -14,8 +14,12 @@ I'm passionate about solving technical problems and coming up with creative solu
 - 🌱 I’m currently learning ...Javascript & React 
 - 👯 I’m looking to collaborate on ... Open Source frontend projects 
 - 💬 Ask me about ... Automation, HTML + CSS, Linux 
-
-
+<br /> 
+<br /> 
+<br /> 
+<!-- <p align="center">
+  Weekly development breakdown: 
+</p> -->
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
