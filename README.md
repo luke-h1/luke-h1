@@ -21,5 +21,4 @@ I'm passionate about solving technical problems and coming up with creative solu
   Weekly development breakdown: 
 </p> -->
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
