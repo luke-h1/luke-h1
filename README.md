@@ -21,7 +21,7 @@ I'm passionate about solving technical problems and coming up with creative solu
   Weekly development breakdown: 
 </p> -->
 <!--START_SECTION:waka-->
-```text
+```
 Python     1 hr 2 mins     █████████████▒░░░░░░░░░░░   53.31 % 
 YAML       20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.25 % 
 JSX        13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
