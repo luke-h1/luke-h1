@@ -11,7 +11,7 @@ I'm passionate about solving technical problems and coming up with creative solu
  
 
 <!--- - 🔭 I’m currently working on ... []() --> 
-- 🌱 I’m currently learning ...Javascript & React 
+- 🌱 I’m currently learning ...Javascript, Typescript & React 
 - 👯 I’m looking to collaborate on ... Open Source frontend projects 
 - 💬 Ask me about ... Automation, HTML + CSS, Linux 
 <br /> 
