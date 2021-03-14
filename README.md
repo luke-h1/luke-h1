@@ -12,6 +12,5 @@ rel="noopener noreferrer" href="https://lhowsam.com">Website</a>
 I'm passionate about solving technical problems and coming up with creative solutions. 
 
 
-- 🌱 I’m currently learning Typescript, React, Next JS, Graphql, postgresql & SQL 
-- 👯 I’m looking to collaborate on Open Source projects 
-
+- 🌱 I’m currently learning Javascript, Typescript, React, Next JS, GraphQL, postgresql & SQL 
+- 👯 I’m looking to collaborate on Open Source projects
