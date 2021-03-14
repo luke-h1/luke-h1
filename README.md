@@ -13,6 +13,6 @@ I'm passionate about solving technical problems and coming up with creative solu
 
 I love working with various testing technolgies, React, Node, Express & SQL. 
 
-- 🌱 I’m currently learning Javascript, Typescript, React, postgresql & SQL 
+- 🌱 I’m currently learning Typescript, React, Next JS, Graphql, postgresql & SQL 
 - 👯 I’m looking to collaborate on Open Source projects 
 
