@@ -1,4 +1,4 @@
-<h2 align="center">Hi there my name is Luke</h2>   
+<h2 align="center">Hi 👋 my name is Luke</h2>   
 
 <p align="center"> 
  <a margin='5px'  target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/lukehowsam/">Linkedin</a> 
@@ -9,7 +9,10 @@
 rel="noopener noreferrer" href="https://lhowsam.com">Website</a> 
 </p> 
 
-I'm passionate about solving technical problems and coming up with creative solutions. 
+I'm passionate about solving technical problems and coming up with creative solutions.I enjoy working with the JAMstack, React, Node, testing technologies + practices & various dev-ops technologies
+
+I’m currently learning Javascript, Typescript, React, Next JS, GraphQL, postgresql & SQL
+
 
 
 - 🌱 I’m currently learning Javascript, Typescript, React, Next JS, GraphQL, postgresql & SQL 
