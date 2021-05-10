@@ -1,4 +1,4 @@
-<h2 align="center">Hi, my name is Luke</h2>   
+<h2 align="center">Hi, my name is Luke 👋</h2>   
 
 <p align="center"> 
  <a margin='5px'  target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/lukehowsam/">Linkedin</a> 
