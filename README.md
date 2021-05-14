@@ -13,4 +13,4 @@ rel="noopener noreferrer" href="https://lhowsam.com">Website</a>
 
 - At the moment I work with Robot Framework, Cypress, Javascript (ES6+), Typescript, Next, React, PostgresQL, GraphQL, Cypress, Node & Express. 
 
-- 🌱 I’m currently Typescript, GraphQL (server & client side), Cypress & SQL based databases
+- 🌱 I’m currently learning Typescript, GraphQL (server & client side), Cypress, Next & SQL based databases
