@@ -9,7 +9,8 @@
 rel="noopener noreferrer" href="https://lhowsam.com">Website</a> 
 </p> 
 
-I'm passionate about solving technical problems and coming up with creative solutions.I enjoy working with the JAMstack, React, Node, testing technologies + practices & various dev-ops technologies
+- I write & test code. I care a lot about education, privacy, design, scalable solutions & OSS. 
 
-- 🌱 I’m currently learning Javascript, Typescript, React, Next JS, GraphQL, postgresql & SQL 
-- 👯 I’m looking to collaborate on Open Source projects
+- At the moment I work with Robot Framework, Cypress, Javascript (ES6+), Typescript, Next, React, PostgresQL, GraphQL, Cypress, Node & Express. 
+
+- 🌱 I’m currently Typescript, GraphQL (server & client side), Cypress & SQL based databases
