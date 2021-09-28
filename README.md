@@ -1,4 +1,4 @@
-### Hey, I'm Luke 👋
+## Hey, I'm Luke 👋
 
 - 🌱 Currently working in Sheffield, England as a software tester 
 - 💬 Ask me about Typescript, React, Node & testing 
