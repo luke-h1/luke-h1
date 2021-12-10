@@ -1,7 +1,7 @@
 ## Hey, I'm Luke 👋
 
 - 🌱 Currently working in Sheffield, England as a software tester 
-- 💬 Ask me about Typescript, React, Node & testing 
+- 💬 Ask me about Typescript, React, Node, GraphQL & testing 
 - ✨ How to reach me
   - [Twitter](https://twitter.com/LukeH_1999)
   - [Linkedin](https://www.linkedin.com/in/lukehowsam)
