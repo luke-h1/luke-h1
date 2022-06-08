@@ -1,6 +1,6 @@
 ## Hey, I'm Luke 👋
 
-- 🌱 Currently working in Sheffield, England as a software tester 
+- 🌱 Currently working in Sheffield, England as a software engineer
 - 💬 Ask me about Typescript, React, Node, GraphQL & testing 
 - ✨ How to reach me
   - [Twitter](https://twitter.com/LukeH_1999)
