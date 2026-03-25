@@ -8,3 +8,9 @@
   - [Website](https://lhowsam.com)
   - [Github](https://github.com/luke-h1)
   
+
+Highlighted Projects:
+- [Foam](https://github.com/luke-h1/foam) - custom twitch client for IOS and Android
+- [Foam Proxy](https://github.com/luke-h1/foam-proxy) - Authentication proxy service for [Foam](https://github.com/luke-h1/foam)
+- [My Website](https://github.com/luke-h1/lhowsam.com) - My personal website
+- [chars.lhowsam.com](https://github.com/luke-h1/chars.lhowsam.com) - small website to get character indexes from a given string
