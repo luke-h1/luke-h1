@@ -1,3 +1,12 @@
+<div align="center">
+  <a href="https://commit-history.com/luke-h1">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/luke-h1?theme=dark" />
+      <img alt="luke-h1's commit history" src="https://commit-history.com/embed/luke-h1" />
+    </picture>
+  </a>
+</div>
+
 ## Hey, I'm Luke 👋
 
 - 🌱 Currently working in the UK as a Software Developer
