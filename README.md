@@ -19,6 +19,7 @@
   
 
 Highlighted Projects:
+- [Tightlog](https://tightlog.com) - offline fishing logbook for IOS (Expo, Cloudflare workers, AI)
 - [Foam](https://github.com/luke-h1/foam) - custom twitch client for IOS and Android
 - [Foam Proxy](https://github.com/luke-h1/foam-proxy) - Authentication proxy service for [Foam](https://github.com/luke-h1/foam)
 - [My Website](https://github.com/luke-h1/lhowsam.com) - My personal website
